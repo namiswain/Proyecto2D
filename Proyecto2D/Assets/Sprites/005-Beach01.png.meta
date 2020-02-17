@@ -1,0 +1,4096 @@
+fileFormatVersion: 2
+guid: c35551567c148f5418907f2a25915ca5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8860056132076476008
+    second: 005-Beach01_0
+  - first:
+      213: -6906051688661443791
+    second: 005-Beach01_1
+  - first:
+      213: -3191114695172864229
+    second: 005-Beach01_2
+  - first:
+      213: -5374399611098740475
+    second: 005-Beach01_3
+  - first:
+      213: -3363902609426869106
+    second: 005-Beach01_4
+  - first:
+      213: 299190684533270946
+    second: 005-Beach01_5
+  - first:
+      213: -4521795454605111546
+    second: 005-Beach01_6
+  - first:
+      213: 3875695776370753657
+    second: 005-Beach01_7
+  - first:
+      213: -2325293068592457793
+    second: 005-Beach01_8
+  - first:
+      213: 1100939413031413973
+    second: 005-Beach01_9
+  - first:
+      213: 8786578955159198272
+    second: 005-Beach01_10
+  - first:
+      213: 3606366319972362252
+    second: 005-Beach01_11
+  - first:
+      213: 772373457399668264
+    second: 005-Beach01_12
+  - first:
+      213: 7928688368550261401
+    second: 005-Beach01_13
+  - first:
+      213: 8505604288839098229
+    second: 005-Beach01_14
+  - first:
+      213: -3101986592655586793
+    second: 005-Beach01_15
+  - first:
+      213: -5786776271250744626
+    second: 005-Beach01_16
+  - first:
+      213: 4882656027178630019
+    second: 005-Beach01_17
+  - first:
+      213: -7637334901472927851
+    second: 005-Beach01_18
+  - first:
+      213: 4527121673231381721
+    second: 005-Beach01_19
+  - first:
+      213: 6989909005377240618
+    second: 005-Beach01_20
+  - first:
+      213: 2970199026450461230
+    second: 005-Beach01_21
+  - first:
+      213: -6806796942044196888
+    second: 005-Beach01_22
+  - first:
+      213: -4799090514277146367
+    second: 005-Beach01_23
+  - first:
+      213: 3783018307571493623
+    second: 005-Beach01_24
+  - first:
+      213: -858562402088510160
+    second: 005-Beach01_25
+  - first:
+      213: 5115172674863544821
+    second: 005-Beach01_26
+  - first:
+      213: 6026083711552345618
+    second: 005-Beach01_27
+  - first:
+      213: 1249564653836415598
+    second: 005-Beach01_28
+  - first:
+      213: 7416013730032285172
+    second: 005-Beach01_29
+  - first:
+      213: 8969361864948483066
+    second: 005-Beach01_30
+  - first:
+      213: -4939181479441642883
+    second: 005-Beach01_31
+  - first:
+      213: 8070304119809014959
+    second: 005-Beach01_32
+  - first:
+      213: 6030094939118991880
+    second: 005-Beach01_33
+  - first:
+      213: 2894729511230289823
+    second: 005-Beach01_34
+  - first:
+      213: 4619614360445870680
+    second: 005-Beach01_35
+  - first:
+      213: 705073609855850459
+    second: 005-Beach01_36
+  - first:
+      213: -1276152165574972292
+    second: 005-Beach01_37
+  - first:
+      213: -6086276295137178727
+    second: 005-Beach01_38
+  - first:
+      213: -2536463605913468039
+    second: 005-Beach01_39
+  - first:
+      213: -4068333978610242844
+    second: 005-Beach01_40
+  - first:
+      213: -2276587002992126713
+    second: 005-Beach01_41
+  - first:
+      213: 8040911282438470937
+    second: 005-Beach01_42
+  - first:
+      213: 7055365206134739646
+    second: 005-Beach01_43
+  - first:
+      213: 5826525375558309885
+    second: 005-Beach01_44
+  - first:
+      213: -5681634072464674506
+    second: 005-Beach01_45
+  - first:
+      213: -8391110514055036809
+    second: 005-Beach01_46
+  - first:
+      213: -1547742052753599780
+    second: 005-Beach01_47
+  - first:
+      213: -5561814288471913676
+    second: 005-Beach01_48
+  - first:
+      213: -2952519997123004795
+    second: 005-Beach01_49
+  - first:
+      213: -6322725148322370665
+    second: 005-Beach01_50
+  - first:
+      213: -1972658727301505556
+    second: 005-Beach01_51
+  - first:
+      213: -1275253424885404218
+    second: 005-Beach01_52
+  - first:
+      213: -6997184415947981230
+    second: 005-Beach01_53
+  - first:
+      213: 7583693370150440637
+    second: 005-Beach01_54
+  - first:
+      213: 8615983474306032131
+    second: 005-Beach01_55
+  - first:
+      213: -580945798294516393
+    second: 005-Beach01_56
+  - first:
+      213: -34101876639579332
+    second: 005-Beach01_57
+  - first:
+      213: 597919142895983695
+    second: 005-Beach01_58
+  - first:
+      213: 7896843089830789225
+    second: 005-Beach01_59
+  - first:
+      213: 6972613144660429686
+    second: 005-Beach01_60
+  - first:
+      213: 3699241225176370255
+    second: 005-Beach01_61
+  - first:
+      213: 6570785027392323465
+    second: 005-Beach01_62
+  - first:
+      213: -8484886434788656770
+    second: 005-Beach01_63
+  - first:
+      213: -5076604127887931450
+    second: 005-Beach01_64
+  - first:
+      213: 3982762701490964255
+    second: 005-Beach01_65
+  - first:
+      213: -7317394560770266369
+    second: 005-Beach01_66
+  - first:
+      213: -7417558155048290192
+    second: 005-Beach01_67
+  - first:
+      213: 3952102306037871599
+    second: 005-Beach01_68
+  - first:
+      213: -558766752918202258
+    second: 005-Beach01_69
+  - first:
+      213: -4299974916289655392
+    second: 005-Beach01_70
+  - first:
+      213: 8445307269135742609
+    second: 005-Beach01_71
+  - first:
+      213: -6333986611349098285
+    second: 005-Beach01_72
+  - first:
+      213: -3607884194813493525
+    second: 005-Beach01_73
+  - first:
+      213: -5518612532633039377
+    second: 005-Beach01_74
+  - first:
+      213: 6337118028772150039
+    second: 005-Beach01_75
+  - first:
+      213: 6146094950725704842
+    second: 005-Beach01_76
+  - first:
+      213: -4323630592355049986
+    second: 005-Beach01_77
+  - first:
+      213: 8598703512412580436
+    second: 005-Beach01_78
+  - first:
+      213: 7247236699911898345
+    second: 005-Beach01_79
+  - first:
+      213: 4143986661418735700
+    second: 005-Beach01_80
+  - first:
+      213: 8854743378916075458
+    second: 005-Beach01_81
+  - first:
+      213: 3206778732221881412
+    second: 005-Beach01_82
+  - first:
+      213: 8101923335811965622
+    second: 005-Beach01_83
+  - first:
+      213: 8208499046080742269
+    second: 005-Beach01_84
+  - first:
+      213: -5993061970613587076
+    second: 005-Beach01_85
+  - first:
+      213: -1344174453473650796
+    second: 005-Beach01_86
+  - first:
+      213: 7533327707262623646
+    second: 005-Beach01_87
+  - first:
+      213: -2086444824143404476
+    second: 005-Beach01_88
+  - first:
+      213: 2564998423368157435
+    second: 005-Beach01_89
+  - first:
+      213: 5427847603470793668
+    second: 005-Beach01_90
+  - first:
+      213: 172324586427182746
+    second: 005-Beach01_91
+  - first:
+      213: -3625725269949078889
+    second: 005-Beach01_92
+  - first:
+      213: 3148898935916161366
+    second: 005-Beach01_93
+  - first:
+      213: -8005341855783877601
+    second: 005-Beach01_94
+  - first:
+      213: -3126596390140928254
+    second: 005-Beach01_95
+  - first:
+      213: -952875594263868005
+    second: 005-Beach01_96
+  - first:
+      213: 2033413185479951675
+    second: 005-Beach01_97
+  - first:
+      213: 6936489252863971312
+    second: 005-Beach01_98
+  - first:
+      213: -31396563539996016
+    second: 005-Beach01_99
+  - first:
+      213: -7161629366423883442
+    second: 005-Beach01_100
+  - first:
+      213: 7192665115208802405
+    second: 005-Beach01_101
+  - first:
+      213: -2042512584582496629
+    second: 005-Beach01_102
+  - first:
+      213: -7788908755919840404
+    second: 005-Beach01_103
+  - first:
+      213: 3178260091823079455
+    second: 005-Beach01_104
+  - first:
+      213: -5474067000076466798
+    second: 005-Beach01_105
+  - first:
+      213: -4713073438564828057
+    second: 005-Beach01_106
+  - first:
+      213: 8162447197244092990
+    second: 005-Beach01_107
+  - first:
+      213: 4403459585270614417
+    second: 005-Beach01_108
+  - first:
+      213: 5224926715620062835
+    second: 005-Beach01_109
+  - first:
+      213: -856910424659406702
+    second: 005-Beach01_110
+  - first:
+      213: -6687558110275282639
+    second: 005-Beach01_111
+  - first:
+      213: 6655561963390479252
+    second: 005-Beach01_112
+  - first:
+      213: -5651841915432248459
+    second: 005-Beach01_113
+  - first:
+      213: -8997340156549464822
+    second: 005-Beach01_114
+  - first:
+      213: 7635918535560817785
+    second: 005-Beach01_115
+  - first:
+      213: 2108976299779439721
+    second: 005-Beach01_116
+  - first:
+      213: 4671122891340729107
+    second: 005-Beach01_117
+  - first:
+      213: -4998794948482307845
+    second: 005-Beach01_118
+  - first:
+      213: 341988091084302764
+    second: 005-Beach01_119
+  - first:
+      213: 4669370550697476231
+    second: 005-Beach01_120
+  - first:
+      213: -728807969192851895
+    second: 005-Beach01_121
+  - first:
+      213: -2663487906504303899
+    second: 005-Beach01_122
+  - first:
+      213: 1099840750010432499
+    second: 005-Beach01_123
+  - first:
+      213: 7522263921036978059
+    second: 005-Beach01_124
+  - first:
+      213: -3407588059973062697
+    second: 005-Beach01_125
+  - first:
+      213: -2825960499679232178
+    second: 005-Beach01_126
+  - first:
+      213: 8816487483378718695
+    second: 005-Beach01_127
+  - first:
+      213: -9015517540703111835
+    second: 005-Beach01_128
+  - first:
+      213: 6030084985342376436
+    second: 005-Beach01_129
+  - first:
+      213: 3730775486168395168
+    second: 005-Beach01_130
+  - first:
+      213: -8048304142864523962
+    second: 005-Beach01_131
+  - first:
+      213: 2694065741286345395
+    second: 005-Beach01_132
+  - first:
+      213: -7475759276978964988
+    second: 005-Beach01_133
+  - first:
+      213: 3363075365657287864
+    second: 005-Beach01_134
+  - first:
+      213: -8787596114641260963
+    second: 005-Beach01_135
+  - first:
+      213: -5651023544407597276
+    second: 005-Beach01_136
+  - first:
+      213: -3764014611244160203
+    second: 005-Beach01_137
+  - first:
+      213: 393259510877206522
+    second: 005-Beach01_138
+  - first:
+      213: 6530398227669040419
+    second: 005-Beach01_139
+  - first:
+      213: 860484860631675908
+    second: 005-Beach01_140
+  - first:
+      213: -683956431930957480
+    second: 005-Beach01_141
+  - first:
+      213: 3928953537690152337
+    second: 005-Beach01_142
+  - first:
+      213: -7125254833703885253
+    second: 005-Beach01_143
+  - first:
+      213: 385747173120599765
+    second: 005-Beach01_144
+  - first:
+      213: 4206585623084954234
+    second: 005-Beach01_145
+  - first:
+      213: 2401551811657074147
+    second: 005-Beach01_146
+  - first:
+      213: 2785175502581205942
+    second: 005-Beach01_147
+  - first:
+      213: 2918832287899137446
+    second: 005-Beach01_148
+  - first:
+      213: -3845758340447200401
+    second: 005-Beach01_149
+  - first:
+      213: 8708118422595047114
+    second: 005-Beach01_150
+  - first:
+      213: 6311520774084867670
+    second: 005-Beach01_151
+  - first:
+      213: -5467119585086139399
+    second: 005-Beach01_152
+  - first:
+      213: 8075284500017264150
+    second: 005-Beach01_153
+  - first:
+      213: -5777107132077158638
+    second: 005-Beach01_154
+  - first:
+      213: -553412539733162413
+    second: 005-Beach01_155
+  - first:
+      213: -2654668913867776289
+    second: 005-Beach01_156
+  - first:
+      213: -7185734205956221163
+    second: 005-Beach01_157
+  - first:
+      213: 5013423829823485178
+    second: 005-Beach01_158
+  - first:
+      213: -1931971947403064587
+    second: 005-Beach01_159
+  - first:
+      213: 6574940574985833656
+    second: 005-Beach01_160
+  - first:
+      213: -5972548130149460880
+    second: 005-Beach01_161
+  - first:
+      213: 2140955628951637346
+    second: 005-Beach01_162
+  - first:
+      213: -2292777930810319837
+    second: 005-Beach01_163
+  - first:
+      213: -5916898693080912909
+    second: 005-Beach01_164
+  - first:
+      213: 4897309889701423933
+    second: 005-Beach01_165
+  - first:
+      213: 5823253296523657365
+    second: 005-Beach01_166
+  - first:
+      213: 724875785092221721
+    second: 005-Beach01_167
+  - first:
+      213: 3832515945009624017
+    second: 005-Beach01_168
+  - first:
+      213: 6097969645859463621
+    second: 005-Beach01_169
+  - first:
+      213: 8963823493378690320
+    second: 005-Beach01_170
+  - first:
+      213: 1546591752813054398
+    second: 005-Beach01_171
+  - first:
+      213: -5974514496142984395
+    second: 005-Beach01_172
+  - first:
+      213: 8421993037418602129
+    second: 005-Beach01_173
+  - first:
+      213: 8975026364248662501
+    second: 005-Beach01_174
+  - first:
+      213: 1531574926148538887
+    second: 005-Beach01_175
+  - first:
+      213: -8719544377481463624
+    second: 005-Beach01_176
+  - first:
+      213: -4083462825651544847
+    second: 005-Beach01_177
+  - first:
+      213: -7298026998374307233
+    second: 005-Beach01_178
+  - first:
+      213: -6498850670947743316
+    second: 005-Beach01_179
+  - first:
+      213: -7255059827865668467
+    second: 005-Beach01_180
+  - first:
+      213: -9096958081122474392
+    second: 005-Beach01_181
+  - first:
+      213: 6060773970740734015
+    second: 005-Beach01_182
+  - first:
+      213: -5217461932310235706
+    second: 005-Beach01_183
+  - first:
+      213: 1726642757103706954
+    second: 005-Beach01_184
+  - first:
+      213: 2011774313949341867
+    second: 005-Beach01_185
+  - first:
+      213: -6442064350307347881
+    second: 005-Beach01_186
+  - first:
+      213: 1263353179576568136
+    second: 005-Beach01_187
+  - first:
+      213: -4147488132252763910
+    second: 005-Beach01_188
+  - first:
+      213: 2510520452750258163
+    second: 005-Beach01_189
+  - first:
+      213: 3730698171934490699
+    second: 005-Beach01_190
+  - first:
+      213: -432343420183568477
+    second: 005-Beach01_191
+  - first:
+      213: 5751534824558365601
+    second: 005-Beach01_192
+  - first:
+      213: -8165605016671103403
+    second: 005-Beach01_193
+  - first:
+      213: -7393248009418638539
+    second: 005-Beach01_194
+  - first:
+      213: -298664524469502306
+    second: 005-Beach01_195
+  - first:
+      213: 5856387183356724456
+    second: 005-Beach01_196
+  - first:
+      213: 8450043233459757187
+    second: 005-Beach01_197
+  - first:
+      213: -4756526412044506452
+    second: 005-Beach01_198
+  - first:
+      213: 6648330519305102182
+    second: 005-Beach01_199
+  - first:
+      213: 1583466825948496097
+    second: 005-Beach01_200
+  - first:
+      213: -3284871107471679869
+    second: 005-Beach01_201
+  - first:
+      213: -925322411174198657
+    second: 005-Beach01_202
+  - first:
+      213: -2244133878056480845
+    second: 005-Beach01_203
+  - first:
+      213: -2836562592746793135
+    second: 005-Beach01_204
+  - first:
+      213: -8737892664622774948
+    second: 005-Beach01_205
+  - first:
+      213: -1716748580522835396
+    second: 005-Beach01_206
+  - first:
+      213: 3478145193776302064
+    second: 005-Beach01_207
+  - first:
+      213: -3747389984558702488
+    second: 005-Beach01_208
+  - first:
+      213: -914398546396924389
+    second: 005-Beach01_209
+  - first:
+      213: -605379492877238236
+    second: 005-Beach01_210
+  - first:
+      213: 3586368341075604002
+    second: 005-Beach01_211
+  - first:
+      213: -3228606668484132338
+    second: 005-Beach01_212
+  - first:
+      213: 8134113120637628119
+    second: 005-Beach01_213
+  - first:
+      213: 7418047523797804855
+    second: 005-Beach01_214
+  - first:
+      213: -4345489535179386304
+    second: 005-Beach01_215
+  - first:
+      213: 4842981694271197516
+    second: 005-Beach01_216
+  - first:
+      213: 7711302001944487768
+    second: 005-Beach01_217
+  - first:
+      213: 1606507267649600256
+    second: 005-Beach01_218
+  - first:
+      213: -2862127661283003601
+    second: 005-Beach01_219
+  - first:
+      213: -3069630074862153668
+    second: 005-Beach01_220
+  - first:
+      213: -8042079032306478969
+    second: 005-Beach01_221
+  - first:
+      213: -5295622033892908119
+    second: 005-Beach01_222
+  - first:
+      213: -274567540563717896
+    second: 005-Beach01_223
+  - first:
+      213: 6509335435277295733
+    second: 005-Beach01_224
+  - first:
+      213: -1876176891349536197
+    second: 005-Beach01_225
+  - first:
+      213: 2813590623832097261
+    second: 005-Beach01_226
+  - first:
+      213: -6740013194724094144
+    second: 005-Beach01_227
+  - first:
+      213: 6326969818385502223
+    second: 005-Beach01_228
+  - first:
+      213: -3228559967877879715
+    second: 005-Beach01_229
+  - first:
+      213: -586532560557700236
+    second: 005-Beach01_230
+  - first:
+      213: -1011844326448383042
+    second: 005-Beach01_231
+  - first:
+      213: 5393061431467591514
+    second: 005-Beach01_232
+  - first:
+      213: 2554860090369920314
+    second: 005-Beach01_233
+  - first:
+      213: -8377696014445126914
+    second: 005-Beach01_234
+  - first:
+      213: 7683488151696796992
+    second: 005-Beach01_235
+  - first:
+      213: 5982952277348300522
+    second: 005-Beach01_236
+  - first:
+      213: -8052571300477191094
+    second: 005-Beach01_237
+  - first:
+      213: -2219050900503626486
+    second: 005-Beach01_238
+  - first:
+      213: -3100967096320907668
+    second: 005-Beach01_239
+  - first:
+      213: 1941638536346328023
+    second: 005-Beach01_240
+  - first:
+      213: -7810985823632044179
+    second: 005-Beach01_241
+  - first:
+      213: -1430012699728923511
+    second: 005-Beach01_242
+  - first:
+      213: 5349004522906693821
+    second: 005-Beach01_243
+  - first:
+      213: 9133938756237532697
+    second: 005-Beach01_244
+  - first:
+      213: -8359082295199702529
+    second: 005-Beach01_245
+  - first:
+      213: -3666039202350367491
+    second: 005-Beach01_246
+  - first:
+      213: 2879888597113156433
+    second: 005-Beach01_247
+  - first:
+      213: 624829803798844826
+    second: 005-Beach01_248
+  - first:
+      213: -3726158041610289771
+    second: 005-Beach01_249
+  - first:
+      213: -355137052465121211
+    second: 005-Beach01_250
+  - first:
+      213: -1372737705894034241
+    second: 005-Beach01_251
+  - first:
+      213: -1597600004606927951
+    second: 005-Beach01_252
+  - first:
+      213: 4796723574603510807
+    second: 005-Beach01_253
+  - first:
+      213: 4392295355935703536
+    second: 005-Beach01_254
+  - first:
+      213: 5927625924711510225
+    second: 005-Beach01_255
+  - first:
+      213: 2590573581871277108
+    second: 005-Beach01_256
+  - first:
+      213: 6558586807496165566
+    second: 005-Beach01_257
+  - first:
+      213: 8997571092359887395
+    second: 005-Beach01_258
+  - first:
+      213: 3934143162536116525
+    second: 005-Beach01_259
+  - first:
+      213: 6052391537031255869
+    second: 005-Beach01_260
+  - first:
+      213: 8323093367591974784
+    second: 005-Beach01_261
+  - first:
+      213: 9014610526274078009
+    second: 005-Beach01_262
+  - first:
+      213: 1337092536206349987
+    second: 005-Beach01_263
+  - first:
+      213: -5774813645104408538
+    second: 005-Beach01_264
+  - first:
+      213: 8218523035085926441
+    second: 005-Beach01_265
+  - first:
+      213: -7013296031736097699
+    second: 005-Beach01_266
+  - first:
+      213: 5842064014548136616
+    second: 005-Beach01_267
+  - first:
+      213: -7113016354274779490
+    second: 005-Beach01_268
+  - first:
+      213: 6483347997673677027
+    second: 005-Beach01_269
+  - first:
+      213: 2599975315051396126
+    second: 005-Beach01_270
+  - first:
+      213: -1246467590959434646
+    second: 005-Beach01_271
+  - first:
+      213: -6283904484574161997
+    second: 005-Beach01_272
+  - first:
+      213: -7346216720770552532
+    second: 005-Beach01_273
+  - first:
+      213: 3190693906489458936
+    second: 005-Beach01_274
+  - first:
+      213: 1498207360857235454
+    second: 005-Beach01_275
+  - first:
+      213: 7808446458498715159
+    second: 005-Beach01_276
+  - first:
+      213: -2439606934674760624
+    second: 005-Beach01_277
+  - first:
+      213: -3226757074462987523
+    second: 005-Beach01_278
+  - first:
+      213: 678017849967435477
+    second: 005-Beach01_279
+  - first:
+      213: -5996062045055922959
+    second: 005-Beach01_280
+  - first:
+      213: -1042418639044448483
+    second: 005-Beach01_281
+  - first:
+      213: -6529995796454141948
+    second: 005-Beach01_282
+  - first:
+      213: -9170174699854888976
+    second: 005-Beach01_283
+  - first:
+      213: 9065797833385011640
+    second: 005-Beach01_284
+  - first:
+      213: -5414115530991562743
+    second: 005-Beach01_285
+  - first:
+      213: -5872503442746429433
+    second: 005-Beach01_286
+  - first:
+      213: 3240417923945798683
+    second: 005-Beach01_287
+  - first:
+      213: -8291525796134165164
+    second: 005-Beach01_288
+  - first:
+      213: -4052185013971614068
+    second: 005-Beach01_289
+  - first:
+      213: -7066763416911737338
+    second: 005-Beach01_290
+  - first:
+      213: -3049073191362282264
+    second: 005-Beach01_291
+  - first:
+      213: -8214629130984122224
+    second: 005-Beach01_292
+  - first:
+      213: 7060831184730252669
+    second: 005-Beach01_293
+  - first:
+      213: 1639428930224989754
+    second: 005-Beach01_294
+  - first:
+      213: 4612785655509354629
+    second: 005-Beach01_295
+  - first:
+      213: -8080688383179675892
+    second: 005-Beach01_296
+  - first:
+      213: 2795997278987106466
+    second: 005-Beach01_297
+  - first:
+      213: -1420539794440861521
+    second: 005-Beach01_298
+  - first:
+      213: 1283076025482781149
+    second: 005-Beach01_299
+  - first:
+      213: 5890034487448807426
+    second: 005-Beach01_300
+  - first:
+      213: -4113579341194815405
+    second: 005-Beach01_301
+  - first:
+      213: -4355603333553826326
+    second: 005-Beach01_302
+  - first:
+      213: 9119006980894319595
+    second: 005-Beach01_303
+  - first:
+      213: -3106491791256224481
+    second: 005-Beach01_304
+  - first:
+      213: -2430160443427588139
+    second: 005-Beach01_305
+  - first:
+      213: 5737268347765543236
+    second: 005-Beach01_306
+  - first:
+      213: 7824958906339248272
+    second: 005-Beach01_307
+  - first:
+      213: -2099321185003733688
+    second: 005-Beach01_308
+  - first:
+      213: 7057512701044777378
+    second: 005-Beach01_309
+  - first:
+      213: 5077748957511453800
+    second: 005-Beach01_310
+  - first:
+      213: 5580211586845481955
+    second: 005-Beach01_311
+  - first:
+      213: 2323629874586076656
+    second: 005-Beach01_312
+  - first:
+      213: 4425311539199333531
+    second: 005-Beach01_313
+  - first:
+      213: -2479460751881986258
+    second: 005-Beach01_314
+  - first:
+      213: 994747563745656781
+    second: 005-Beach01_315
+  - first:
+      213: -3230169503422524515
+    second: 005-Beach01_316
+  - first:
+      213: -4845457735528136374
+    second: 005-Beach01_317
+  - first:
+      213: 7678691216806684121
+    second: 005-Beach01_318
+  - first:
+      213: -4103033413596575708
+    second: 005-Beach01_319
+  - first:
+      213: 3411657510845048449
+    second: 005-Beach01_320
+  - first:
+      213: 2324285934175807981
+    second: 005-Beach01_321
+  - first:
+      213: -6603000459125781263
+    second: 005-Beach01_322
+  - first:
+      213: 834749001310131019
+    second: 005-Beach01_323
+  - first:
+      213: -5927489714014771294
+    second: 005-Beach01_324
+  - first:
+      213: -5962210051298676724
+    second: 005-Beach01_325
+  - first:
+      213: -5786797402870752464
+    second: 005-Beach01_326
+  - first:
+      213: 1194815471404521808
+    second: 005-Beach01_327
+  - first:
+      213: 9174704665152456909
+    second: 005-Beach01_328
+  - first:
+      213: -71139886925935992
+    second: 005-Beach01_329
+  - first:
+      213: -5798040963163518723
+    second: 005-Beach01_330
+  - first:
+      213: -2323619066529484846
+    second: 005-Beach01_331
+  - first:
+      213: -6533629719636093130
+    second: 005-Beach01_332
+  - first:
+      213: -1349868770257465804
+    second: 005-Beach01_333
+  - first:
+      213: 8651014053491102743
+    second: 005-Beach01_334
+  - first:
+      213: 6549667800506771368
+    second: 005-Beach01_335
+  - first:
+      213: -936704955775756850
+    second: 005-Beach01_336
+  - first:
+      213: 5461291040855468277
+    second: 005-Beach01_337
+  - first:
+      213: 6700883439034741113
+    second: 005-Beach01_338
+  - first:
+      213: -6464873065717643404
+    second: 005-Beach01_339
+  - first:
+      213: 8650994171809509591
+    second: 005-Beach01_340
+  - first:
+      213: -3002432134427155905
+    second: 005-Beach01_341
+  - first:
+      213: -1431028659179318182
+    second: 005-Beach01_342
+  - first:
+      213: -5622547401090205009
+    second: 005-Beach01_343
+  - first:
+      213: -3973173814922682082
+    second: 005-Beach01_344
+  - first:
+      213: -489550814749238553
+    second: 005-Beach01_345
+  - first:
+      213: 877182191061640217
+    second: 005-Beach01_346
+  - first:
+      213: 5551474368732716782
+    second: 005-Beach01_347
+  - first:
+      213: -1116844346454465193
+    second: 005-Beach01_348
+  - first:
+      213: -8214240525545342824
+    second: 005-Beach01_349
+  - first:
+      213: -5806582354575655125
+    second: 005-Beach01_350
+  - first:
+      213: -1406896261590003453
+    second: 005-Beach01_351
+  - first:
+      213: 5092841848361312900
+    second: 005-Beach01_352
+  - first:
+      213: 2970106299260654340
+    second: 005-Beach01_353
+  - first:
+      213: -6214388211547344391
+    second: 005-Beach01_354
+  - first:
+      213: -134067103512943488
+    second: 005-Beach01_355
+  - first:
+      213: 5957232773498219383
+    second: 005-Beach01_356
+  - first:
+      213: 2749716980858137292
+    second: 005-Beach01_357
+  - first:
+      213: -256161198167270286
+    second: 005-Beach01_358
+  - first:
+      213: -8522950791285264780
+    second: 005-Beach01_359
+  - first:
+      213: -6237329689167478058
+    second: 005-Beach01_360
+  - first:
+      213: -6520451594454174120
+    second: 005-Beach01_361
+  - first:
+      213: -4917453996694938510
+    second: 005-Beach01_362
+  - first:
+      213: 5271924299465090911
+    second: 005-Beach01_363
+  - first:
+      213: -8688028878380842489
+    second: 005-Beach01_364
+  - first:
+      213: -1803268621114380391
+    second: 005-Beach01_365
+  - first:
+      213: 7566072169465217739
+    second: 005-Beach01_366
+  - first:
+      213: -5094933366520660891
+    second: 005-Beach01_367
+  - first:
+      213: -3167670863915348491
+    second: 005-Beach01_368
+  - first:
+      213: -5364547912345208772
+    second: 005-Beach01_369
+  - first:
+      213: -3051876021950720799
+    second: 005-Beach01_370
+  - first:
+      213: 6801428994852180598
+    second: 005-Beach01_371
+  - first:
+      213: -6046871765245318853
+    second: 005-Beach01_372
+  - first:
+      213: -8703976261545564011
+    second: 005-Beach01_373
+  - first:
+      213: -7786736046294229496
+    second: 005-Beach01_374
+  - first:
+      213: -5557576803245657400
+    second: 005-Beach01_375
+  - first:
+      213: 2196529981664190647
+    second: 005-Beach01_376
+  - first:
+      213: -3249545580870666455
+    second: 005-Beach01_377
+  - first:
+      213: 5132990398643879719
+    second: 005-Beach01_378
+  - first:
+      213: -6557934441753030619
+    second: 005-Beach01_379
+  - first:
+      213: -8887755124946019532
+    second: 005-Beach01_380
+  - first:
+      213: -2965915834743002317
+    second: 005-Beach01_381
+  - first:
+      213: 7272732747636511528
+    second: 005-Beach01_382
+  - first:
+      213: 1941226664148372586
+    second: 005-Beach01_383
+  - first:
+      213: -2887762945417180947
+    second: 005-Beach01_384
+  - first:
+      213: -8186795760416066773
+    second: 005-Beach01_385
+  - first:
+      213: 3356417127383003218
+    second: 005-Beach01_386
+  - first:
+      213: -3476858317285961402
+    second: 005-Beach01_387
+  - first:
+      213: -4843708850853144434
+    second: 005-Beach01_388
+  - first:
+      213: 7790637438953721143
+    second: 005-Beach01_389
+  - first:
+      213: -3974725853622791830
+    second: 005-Beach01_390
+  - first:
+      213: 3816475396368737072
+    second: 005-Beach01_391
+  - first:
+      213: -798955564785498541
+    second: 005-Beach01_392
+  - first:
+      213: 7388154931435254658
+    second: 005-Beach01_393
+  - first:
+      213: 3423982211866377285
+    second: 005-Beach01_394
+  - first:
+      213: 5365028123895745333
+    second: 005-Beach01_395
+  - first:
+      213: 5729793306300717893
+    second: 005-Beach01_396
+  - first:
+      213: -45608370360493221
+    second: 005-Beach01_397
+  - first:
+      213: -1810204559014806781
+    second: 005-Beach01_398
+  - first:
+      213: -2949945646435717059
+    second: 005-Beach01_399
+  - first:
+      213: -1898929851951987420
+    second: 005-Beach01_400
+  - first:
+      213: 7368051027462877724
+    second: 005-Beach01_401
+  - first:
+      213: -612020651777841770
+    second: 005-Beach01_402
+  - first:
+      213: -8312553243738086626
+    second: 005-Beach01_403
+  - first:
+      213: -6910614848415160437
+    second: 005-Beach01_404
+  - first:
+      213: -1152419238126417433
+    second: 005-Beach01_405
+  - first:
+      213: -6295032594071696062
+    second: 005-Beach01_406
+  - first:
+      213: -7353216538215787050
+    second: 005-Beach01_407
+  - first:
+      213: 7617854892853416155
+    second: 005-Beach01_408
+  - first:
+      213: 795959929549317853
+    second: 005-Beach01_409
+  - first:
+      213: 700907037375470298
+    second: 005-Beach01_410
+  - first:
+      213: 1527707790579691491
+    second: 005-Beach01_411
+  - first:
+      213: 2724335229146043917
+    second: 005-Beach01_412
+  - first:
+      213: -7783104648798393301
+    second: 005-Beach01_413
+  - first:
+      213: 1143756584381290094
+    second: 005-Beach01_414
+  - first:
+      213: -6033680515052823490
+    second: 005-Beach01_415
+  - first:
+      213: -6801627977748383278
+    second: 005-Beach01_416
+  - first:
+      213: -8655059367813769570
+    second: 005-Beach01_417
+  - first:
+      213: -6367226493406821302
+    second: 005-Beach01_418
+  - first:
+      213: -3669732134201766639
+    second: 005-Beach01_419
+  - first:
+      213: 8318810908815493921
+    second: 005-Beach01_420
+  - first:
+      213: -378983421349381281
+    second: 005-Beach01_421
+  - first:
+      213: 3934155941081337665
+    second: 005-Beach01_422
+  - first:
+      213: 2335559028627764896
+    second: 005-Beach01_423
+  - first:
+      213: 7280128628618105201
+    second: 005-Beach01_424
+  - first:
+      213: 3095873924559322902
+    second: 005-Beach01_425
+  - first:
+      213: -7458420949225131823
+    second: 005-Beach01_426
+  - first:
+      213: 9220382069917248624
+    second: 005-Beach01_427
+  - first:
+      213: 6881667367504186107
+    second: 005-Beach01_428
+  - first:
+      213: 2339226288089429506
+    second: 005-Beach01_429
+  - first:
+      213: 4407228480956972913
+    second: 005-Beach01_430
+  - first:
+      213: 6768346550406832198
+    second: 005-Beach01_431
+  - first:
+      213: -8279199889644505732
+    second: 005-Beach01_432
+  - first:
+      213: 1314933521499712647
+    second: 005-Beach01_433
+  - first:
+      213: -3695828640028388205
+    second: 005-Beach01_434
+  - first:
+      213: -8208599660721217679
+    second: 005-Beach01_435
+  - first:
+      213: -2726359545865403485
+    second: 005-Beach01_436
+  - first:
+      213: 89594557978847246
+    second: 005-Beach01_437
+  - first:
+      213: 1728699373584215758
+    second: 005-Beach01_438
+  - first:
+      213: 4626570442911548260
+    second: 005-Beach01_439
+  - first:
+      213: 3065836814816473239
+    second: 005-Beach01_440
+  - first:
+      213: -200180084072462260
+    second: 005-Beach01_441
+  - first:
+      213: 9128562938147473847
+    second: 005-Beach01_442
+  - first:
+      213: -5385455939386322484
+    second: 005-Beach01_443
+  - first:
+      213: -120392782589805695
+    second: 005-Beach01_444
+  - first:
+      213: -2714120854442274233
+    second: 005-Beach01_445
+  - first:
+      213: -1894441931143562572
+    second: 005-Beach01_446
+  - first:
+      213: 1071732681292349059
+    second: 005-Beach01_447
+  - first:
+      213: 1349714013421531459
+    second: 005-Beach01_448
+  - first:
+      213: -6328557895979135212
+    second: 005-Beach01_449
+  - first:
+      213: -1557820970110816985
+    second: 005-Beach01_450
+  - first:
+      213: -7547661038119681618
+    second: 005-Beach01_451
+  - first:
+      213: 7029970872376918978
+    second: 005-Beach01_452
+  - first:
+      213: 7015590085274742400
+    second: 005-Beach01_453
+  - first:
+      213: -8098242389315775426
+    second: 005-Beach01_454
+  - first:
+      213: 184587937585942780
+    second: 005-Beach01_455
+  - first:
+      213: -6497077952259709165
+    second: 005-Beach01_456
+  - first:
+      213: 6289261205754286807
+    second: 005-Beach01_457
+  - first:
+      213: 235235670024198419
+    second: 005-Beach01_458
+  - first:
+      213: -3855585703265434748
+    second: 005-Beach01_459
+  - first:
+      213: -4727308252125376116
+    second: 005-Beach01_460
+  - first:
+      213: -2575755628911821331
+    second: 005-Beach01_461
+  - first:
+      213: -8199502022233136182
+    second: 005-Beach01_462
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 005-Beach01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866907a0c1e35fa70800000000000000
+      internalID: 8860056132076476008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b19d83496c820a0800000000000000
+      internalID: -6906051688661443791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1741bc8712e6b3d0800000000000000
+      internalID: -3191114695172864229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509467b470c4a65b0800000000000000
+      internalID: -5374399611098740475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e841a1246640151d0800000000000000
+      internalID: -3363902609426869106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a926b7a750f62400800000000000000
+      internalID: 299190684533270946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f4945ddfa5f31c0800000000000000
+      internalID: -4521795454605111546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9708f0836cc39c530800000000000000
+      internalID: 3875695776370753657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75ed72646eabfd0800000000000000
+      internalID: -2325293068592457793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8e6f82092574f00800000000000000
+      internalID: 1100939413031413973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04adf25a10330f970800000000000000
+      internalID: 8786578955159198272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a2e78f036c0230800000000000000
+      internalID: 3606366319972362252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e5f3a319508ba00800000000000000
+      internalID: 772373457399668264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992b53e201c580e60800000000000000
+      internalID: 7928688368550261401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f1b4c390af90670800000000000000
+      internalID: 8505604288839098229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a4db601a783f4d0800000000000000
+      internalID: -3101986592655586793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca907514ad31bfa0800000000000000
+      internalID: -5786776271250744626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf66c89cda2c340800000000000000
+      internalID: 4882656027178630019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f53071f5cb20690800000000000000
+      internalID: -7637334901472927851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4bde31d2193de30800000000000000
+      internalID: 4527121673231381721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e70ddc435210160800000000000000
+      internalID: 6989909005377240618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227acb1744483920800000000000000
+      internalID: 2970199026450461230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8d33ce366981a0800000000000000
+      internalID: -6806796942044196888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101609b9a94366db0800000000000000
+      internalID: -4799090514277146367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa29918b1bff7430800000000000000
+      internalID: 3783018307571493623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d120e4b06c514f0800000000000000
+      internalID: -858562402088510160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9b60a427ebcf640800000000000000
+      internalID: 5115172674863544821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21658d54533f0a350800000000000000
+      internalID: 6026083711552345618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62bdc3ae68575110800000000000000
+      internalID: 1249564653836415598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f57efb1239fae660800000000000000
+      internalID: 7416013730032285172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3803e2813997c70800000000000000
+      internalID: 8969361864948483066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a41b40d90847bb0800000000000000
+      internalID: -4939181479441642883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7692b6da7fff60800000000000000
+      internalID: 8070304119809014959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a7118f5633fa350800000000000000
+      internalID: 6030094939118991880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b8bd47252c2820800000000000000
+      internalID: 2894729511230289823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526ba9f8ca2c1040800000000000000
+      internalID: 4619614360445870680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d5f766bce8c900800000000000000
+      internalID: 705073609855850459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cee83ed523a4ee0800000000000000
+      internalID: -1276152165574972292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bc77fb4f3398ba0800000000000000
+      internalID: -6086276295137178727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97342d70acbacccd0800000000000000
+      internalID: -2536463605913468039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eae8492dcf5a87c0800000000000000
+      internalID: -4068333978610242844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7051262ce20f760e0800000000000000
+      internalID: -2276587002992126713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dfc24753e079f60800000000000000
+      internalID: 8040911282438470937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2df482641b9e160800000000000000
+      internalID: 7055365206134739646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7d3f475f9fbd050800000000000000
+      internalID: 5826525375558309885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631bcf6e9e7c621b0800000000000000
+      internalID: -5681634072464674506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77044ba0279cc8b80800000000000000
+      internalID: -8391110514055036809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd210b5adc0558ae0800000000000000
+      internalID: -1547742052753599780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b80f45f5770d2b0800000000000000
+      internalID: -5561814288471913676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586fe3ba4ba8607d0800000000000000
+      internalID: -2952519997123004795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be0d11afa2148a0800000000000000
+      internalID: -6322725148322370665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9e10d655bf94e0800000000000000
+      internalID: -1972658727301505556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdea1344c36d4ee0800000000000000
+      internalID: -1275253424885404218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e758ba8d105ee90800000000000000
+      internalID: -6997184415947981230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4d45a0f0be3960800000000000000
+      internalID: 7583693370150440637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302a5a8025f129770800000000000000
+      internalID: 8615983474306032131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d46eadfd010f7f0800000000000000
+      internalID: -580945798294516393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3349bc1688d68ff0800000000000000
+      internalID: -34101876639579332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c98b4ea4c3c4800800000000000000
+      internalID: 597919142895983695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960cc5073f8379d60800000000000000
+      internalID: 7896843089830789225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b44bb66b2b3c060800000000000000
+      internalID: 6972613144660429686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c4e1d7b48565330800000000000000
+      internalID: 3699241225176370255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fbc2d3b2e103b50800000000000000
+      internalID: 6570785027392323465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7934ee0eb0af3a80800000000000000
+      internalID: -8484886434788656770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c745f351774c89b0800000000000000
+      internalID: -5076604127887931450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f174b0f439d954730800000000000000
+      internalID: 3982762701490964255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaa9eb8a64637a90800000000000000
+      internalID: -7317394560770266369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0787b8b682a8f0990800000000000000
+      internalID: -7417558155048290192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b363bb10b8d630800000000000000
+      internalID: 3952102306037871599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e681304499cde38f0800000000000000
+      internalID: -558766752918202258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad077b889b6354c0800000000000000
+      internalID: -4299974916289655392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1963cd35732c33570800000000000000
+      internalID: 8445307269135742609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f4726cb82918a0800000000000000
+      internalID: -6333986611349098285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3561b0783eedc0800000000000000
+      internalID: -3607884194813493525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed8363f323f963b0800000000000000
+      internalID: -5518612532633039377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b00bc8547f1f750800000000000000
+      internalID: 6337118028772150039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd3d55bc05b4550800000000000000
+      internalID: 6146094950725704842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd5aa242e06ff3c0800000000000000
+      internalID: -4323630592355049986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a6142694bb45770800000000000000
+      internalID: 8598703512412580436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e44c6d816b539460800000000000000
+      internalID: 7247236699911898345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45812dba9e5628930800000000000000
+      internalID: 4143986661418735700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7e88d403e52ea70800000000000000
+      internalID: 8854743378916075458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cdc574444c08c20800000000000000
+      internalID: 3206778732221881412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2258c1950df6070800000000000000
+      internalID: 8101923335811965622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7386c454627ae170800000000000000
+      internalID: 8208499046080742269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73bcace3ed54dca0800000000000000
+      internalID: -5993061970613587076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4975c80d478885de0800000000000000
+      internalID: -1344174453473650796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f1fffe2a1cb8860800000000000000
+      internalID: 7533327707262623646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442ea75ac757b03e0800000000000000
+      internalID: -2086444824143404476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8cb42e974b89320800000000000000
+      internalID: 2564998423368157435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbf4db23a6935b40800000000000000
+      internalID: 5427847603470793668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eee006c48346200800000000000000
+      internalID: 172324586427182746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792278fa316deadc0800000000000000
+      internalID: -3625725269949078889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65963ec06e223bb20800000000000000
+      internalID: 3148898935916161366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f148f6c0fff47e090800000000000000
+      internalID: -8005341855783877601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f91a906291c94d0800000000000000
+      internalID: -3126596390140928254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d43c012b4b6c2f0800000000000000
+      internalID: -952875594263868005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c02ac482283c10800000000000000
+      internalID: 2033413185479951675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff8541793c534060800000000000000
+      internalID: 6936489252863971312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092d707edf4709ff0800000000000000
+      internalID: -31396563539996016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417c410908cc9c90800000000000000
+      internalID: -7161629366423883442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_101
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5606d5c50da71d360800000000000000
+      internalID: 7192665115208802405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef1b240a987a3e0800000000000000
+      internalID: -2042512584582496629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd77ff0cc38e390800000000000000
+      internalID: -7788908755919840404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_104
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f104ae0e6b27b1c20800000000000000
+      internalID: 3178260091823079455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29501c7f0153804b0800000000000000
+      internalID: -5474067000076466798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cb306bdacc79eb0800000000000000
+      internalID: -4713073438564828057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32fd99ba76d64170800000000000000
+      internalID: 8162447197244092990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19908da892b3c1d30800000000000000
+      internalID: 4403459585270614417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_109
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3767bfd3a2ba28840800000000000000
+      internalID: 5224926715620062835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290d8d54284ab14f0800000000000000
+      internalID: -856910424659406702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1395246b4550133a0800000000000000
+      internalID: -6687558110275282639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bad70d75e4d5c50800000000000000
+      internalID: 6655561963390479252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b5ffff8bf9091b0800000000000000
+      internalID: -5651841915432248459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df28d2cc6032380800000000000000
+      internalID: -8997340156549464822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c6ce5837b38f960800000000000000
+      internalID: 7635918535560817785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_116
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c321455c6944d10800000000000000
+      internalID: 2108976299779439721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b4f80658923d040800000000000000
+      internalID: 4671122891340729107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_118
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8e1b6aa76b0aab0800000000000000
+      internalID: -4998794948482307845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96e7e5b5cfeb400800000000000000
+      internalID: 341988091084302764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7804ef6c6cfecc040800000000000000
+      internalID: 4669370550697476231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94649ce6301c2e5f0800000000000000
+      internalID: -728807969192851895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea134d5cd3690bd0800000000000000
+      internalID: -2663487906504303899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 005-Beach01_123
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbfeddb55b634f00800000000000000
+      internalID: 1099840750010432499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
