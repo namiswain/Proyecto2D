@@ -7,37 +7,55 @@ public class Player : MonoBehaviour
     private MoveBehaviour _movebehaviour;
     private Vector2 _direction;
     private Animator _animation;
+    private SpriteRenderer _spriterenderer;
+    public bool Teclado;
+    private float  _HorizontalAxis;
+    private float  _VerticalAxis;
+    private bool XButton;
     public void Awake()
     {
         _animation = GetComponent<Animator>();
         _movebehaviour = GetComponent<MoveBehaviour>();
+        _spriterenderer = GetComponent<SpriteRenderer>();
     }
 
-    void Update()
+    void FixedUpdate()
     {
-        if(Input.GetKey(KeyCode.W))
-        {
-            _animation.SetInteger("State", 0);
-            _movebehaviour.move(Vector2.up);
+        if(Teclado == true)
+        {         
+            _HorizontalAxis = Input.GetAxis("Horizontal");
+            _VerticalAxis = Input.GetAxis("Vertical");
         }
-        if(Input.GetKey(KeyCode.S))
-        {
-            _animation.SetInteger("State", 1);
-            _movebehaviour.move(Vector2.down);
+
+        if(Teclado == false)
+        {         
+            _HorizontalAxis = Input.GetAxis("HorizontalPS4");
+            _VerticalAxis = Input.GetAxis("VerticalPS4");
+            XButton = Input.GetKey(KeyCode.Joystick1Button1);
         }
-        if(Input.GetKey(KeyCode.A))
+
+        if (_HorizontalAxis != 0 || _VerticalAxis != 0)
         {
-            _animation.SetInteger("State", 2);
-            _movebehaviour.move(Vector2.left);
+            _animation.SetFloat("Pos X", _HorizontalAxis);
+            _animation.SetFloat("Pos Y", _VerticalAxis);
+            _animation.SetBool("Move", true);
         }
-        if(Input.GetKey(KeyCode.D))
+        else
+            _animation.SetBool("Move", false);
+
+        if(_HorizontalAxis < 0 && (_VerticalAxis < 0.5f || _VerticalAxis > -0.5f))
+            _spriterenderer.flipX = true;
+        else if(_HorizontalAxis > 0 || _VerticalAxis > 0.5f || _VerticalAxis < -0.5f)
+            _spriterenderer.flipX = false;
+        
+        if(XButton == true)
         {
-            _animation.SetInteger("State", 2);
-            _movebehaviour.move(Vector2.right);
+            _movebehaviour.Speed = 8f;
         }
-        if(!Input.anyKey)
+        else
         {
-            _animation.SetInteger("State", 0); 
+            _movebehaviour.Speed = 4f;
         }
+        _movebehaviour.move(new Vector2(_HorizontalAxis, _VerticalAxis));
     }
 }

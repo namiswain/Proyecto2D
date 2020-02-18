@@ -9,6 +9,11 @@ public class MoveBehaviour : MonoBehaviour
     private Vector2 _direction;
     [SerializeField]
     private float _speed;
+    public float Speed
+    {
+        set { _speed = value; }
+    }
+    
 
     private Rigidbody2D _rb;
 
