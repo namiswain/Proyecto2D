@@ -12,6 +12,8 @@ public class Player : MonoBehaviour
     private float  _HorizontalAxis;
     private float  _VerticalAxis;
     private bool XButton;
+    private bool R1Button;
+    private bool Run;
     public void Awake()
     {
         _animation = GetComponent<Animator>();
@@ -25,6 +27,8 @@ public class Player : MonoBehaviour
         {         
             _HorizontalAxis = Input.GetAxis("Horizontal");
             _VerticalAxis = Input.GetAxis("Vertical");
+            Run = Input.GetKey(KeyCode.LeftShift);
+            R1Button = Input.GetKey(KeyCode.Space);
         }
 
         if(Teclado == false)
@@ -48,13 +52,21 @@ public class Player : MonoBehaviour
         else if(_HorizontalAxis > 0 || _VerticalAxis > 0.5f || _VerticalAxis < -0.5f)
             _spriterenderer.flipX = false;
         
-        if(XButton == true)
+        if((XButton == true) || (Run == true))
         {
-            _movebehaviour.Speed = 8f;
+            _movebehaviour.Speed = 5f;
         }
         else
         {
-            _movebehaviour.Speed = 4f;
+            _movebehaviour.Speed = 3f;
+        }
+        if(R1Button == true)
+        {
+            _animation.SetBool("Shot", true);
+        }
+        else if(R1Button == false && _animation.GetBool("Shot") == true)
+        {
+            GameObject arrow = Instantiate(shotprefab, shotPoint.position)
         }
         _movebehaviour.move(new Vector2(_HorizontalAxis, _VerticalAxis));
     }
