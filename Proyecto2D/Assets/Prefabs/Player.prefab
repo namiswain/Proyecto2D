@@ -133,7 +133,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac7f6d341522421488567e33a87e5b69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Teclado: 0
+  Teclado: 1
 --- !u!61 &1600342829
 BoxCollider2D:
   m_ObjectHideFlags: 0
