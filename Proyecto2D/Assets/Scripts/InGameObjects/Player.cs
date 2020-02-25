@@ -5,21 +5,30 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     private MoveBehaviour _movebehaviour;
+    private BridgePass _bridgepass;
     private Vector2 _direction;
     private Animator _animation;
-    private SpriteRenderer _spriterenderer;
+    public SpriteRenderer _spriterenderer;
     public bool Teclado;
     private float  _HorizontalAxis;
     private float  _VerticalAxis;
     private bool XButton;
+    ///////////////COLLIDER LAYER CHANGER/////////////
+
+    ///////////////////BRIDGE//////////////////////
+
     public void Awake()
     {
         _animation = GetComponent<Animator>();
         _movebehaviour = GetComponent<MoveBehaviour>();
         _spriterenderer = GetComponent<SpriteRenderer>();
+        _bridgepass = GetComponent<BridgePass>();
     }
-
-    void FixedUpdate()
+    public void Update()
+    {
+        //_bridgepass.Bridge();
+    }
+    public void FixedUpdate()
     {
         if(Teclado == true)
         {         
@@ -50,12 +59,13 @@ public class Player : MonoBehaviour
         
         if(XButton == true)
         {
-            _movebehaviour.Speed = 8f;
+            _movebehaviour.Speed = 4.5f;
         }
         else
         {
-            _movebehaviour.Speed = 4f;
+            _movebehaviour.Speed = 3f;
         }
+        _bridgepass.Bridge();
         _movebehaviour.move(new Vector2(_HorizontalAxis, _VerticalAxis));
     }
 }
