@@ -5,6 +5,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     private MoveBehaviour _movebehaviour;
+    private BridgePass _bridgepass;
     private Vector2 _direction;
     private Animator _animation;
     public SpriteRenderer _spriterenderer;
@@ -13,22 +14,21 @@ public class Player : MonoBehaviour
     private float  _VerticalAxis;
     private bool XButton;
     ///////////////COLLIDER LAYER CHANGER/////////////
-    public Collider2D LayerChanger1;
-    public Collider2D LayerChanger2;
-    public Collider2D Play;
+
     ///////////////////BRIDGE//////////////////////
-    public List<Collider2D> Fence;
-    public Collider2D Bridge;
-   public List<Collider2D> Border;
 
     public void Awake()
     {
         _animation = GetComponent<Animator>();
         _movebehaviour = GetComponent<MoveBehaviour>();
         _spriterenderer = GetComponent<SpriteRenderer>();
+        _bridgepass = GetComponent<BridgePass>();
     }
-
-    void FixedUpdate()
+    public void Update()
+    {
+        //_bridgepass.Bridge();
+    }
+    public void FixedUpdate()
     {
         if(Teclado == true)
         {         
@@ -66,38 +66,7 @@ public class Player : MonoBehaviour
         {
             _movebehaviour.Speed = 3f;
         }
-        
-        if(Play.IsTouching(LayerChanger1))
-        {
-            _spriterenderer.sortingOrder = 9;
-        }
-        if(Play.IsTouching(LayerChanger2))
-        {
-            _spriterenderer.sortingOrder = 12;
-        }
-        ///////////////////el puto bridge//////////////////
-        if(Bridge.IsTouching(Play) && (_spriterenderer.sortingOrder == 12))
-        {
-            for (int i = 0; i < Fence.Count; i++)
-            {
-                Fence[i].enabled = false;
-            }            
-            Border[0].enabled = true;
-            Border[1].enabled = true;
-            Border[2].enabled = false;
-            Border[3].enabled = false;
-        }
-        else
-        {
-            for (int i = 0; i < Fence.Count; i++)
-            {
-                Fence[i].enabled = true;
-            }
-            Border[0].enabled = false;
-            Border[1].enabled = false;
-            Border[2].enabled = true;
-            Border[3].enabled = true;
-        }
+        _bridgepass.Bridge();
         _movebehaviour.move(new Vector2(_HorizontalAxis, _VerticalAxis));
     }
 }
