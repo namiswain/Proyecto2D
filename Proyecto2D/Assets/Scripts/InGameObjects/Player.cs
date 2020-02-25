@@ -5,31 +5,35 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     private MoveBehaviour _movebehaviour;
+    private BridgePass _bridgepass;
     private Vector2 _direction;
     private Animator _animation;
-    private SpriteRenderer _spriterenderer;
-    private GameObject shotprefab;
+    public SpriteRenderer _spriterenderer;
     public bool Teclado;
     private float  _HorizontalAxis;
     private float  _VerticalAxis;
     private bool XButton;
-    private bool R1Button;
-    private bool Run;
+    ///////////////COLLIDER LAYER CHANGER/////////////
+
+    ///////////////////BRIDGE//////////////////////
+
     public void Awake()
     {
         _animation = GetComponent<Animator>();
         _movebehaviour = GetComponent<MoveBehaviour>();
         _spriterenderer = GetComponent<SpriteRenderer>();
+        _bridgepass = GetComponent<BridgePass>();
     }
-
-    void FixedUpdate()
+    public void Update()
+    {
+        //_bridgepass.Bridge();
+    }
+    public void FixedUpdate()
     {
         if(Teclado == true)
         {         
             _HorizontalAxis = Input.GetAxis("Horizontal");
             _VerticalAxis = Input.GetAxis("Vertical");
-            Run = Input.GetKey(KeyCode.LeftShift);
-            R1Button = Input.GetKey(KeyCode.Space);
         }
 
         if(Teclado == false)
@@ -53,22 +57,15 @@ public class Player : MonoBehaviour
         else if(_HorizontalAxis > 0 || _VerticalAxis > 0.5f || _VerticalAxis < -0.5f)
             _spriterenderer.flipX = false;
         
-        if((XButton == true) || (Run == true))
+        if(XButton == true)
         {
-            _movebehaviour.Speed = 5f;
+            _movebehaviour.Speed = 4.5f;
         }
         else
         {
             _movebehaviour.Speed = 3f;
         }
-        if(R1Button == true)
-        {
-            _animation.SetBool("Shot", true);
-        }
-        else if(R1Button == false && _animation.GetBool("Shot") == true)
-        {
-            GameObject arrow = Instantiate(shotprefab, shotPoint.position);
-        }
+        _bridgepass.Bridge();
         _movebehaviour.move(new Vector2(_HorizontalAxis, _VerticalAxis));
     }
 }
