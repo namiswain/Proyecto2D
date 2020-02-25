@@ -8,6 +8,7 @@ public class Player : MonoBehaviour
     private Vector2 _direction;
     private Animator _animation;
     private SpriteRenderer _spriterenderer;
+    private GameObject shotprefab;
     public bool Teclado;
     private float  _HorizontalAxis;
     private float  _VerticalAxis;
@@ -66,7 +67,7 @@ public class Player : MonoBehaviour
         }
         else if(R1Button == false && _animation.GetBool("Shot") == true)
         {
-            GameObject arrow = Instantiate(shotprefab, shotPoint.position)
+            GameObject arrow = Instantiate(shotprefab, shotPoint.position);
         }
         _movebehaviour.move(new Vector2(_HorizontalAxis, _VerticalAxis));
     }
