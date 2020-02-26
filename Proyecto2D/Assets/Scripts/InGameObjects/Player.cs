@@ -49,6 +49,7 @@ public class Player : MonoBehaviour
             _animation.SetFloat("Pos Y", _VerticalAxis);
             _animation.SetBool("Move", true);
         }
+
         else
             _animation.SetBool("Move", false);
 
